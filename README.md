@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/NirmaliB11/Codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/NirmaliB11/Codes/tree/master/2364-longest-path-with-different-adjacent-characters) |
 # String
 |  |
@@ -36,3 +37,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/NirmaliB11/Codes/tree/master/2364-longest-path-with-different-adjacent-characters) |
+# Hash Table
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/NirmaliB11/Codes/tree/master/1370-count-number-of-nice-subarrays) |
+# Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/NirmaliB11/Codes/tree/master/1370-count-number-of-nice-subarrays) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/NirmaliB11/Codes/tree/master/1370-count-number-of-nice-subarrays) |
