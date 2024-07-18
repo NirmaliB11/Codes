@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NirmaliB11/Codes/tree/master/0547-number-of-provinces) |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/NirmaliB11/Codes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/NirmaliB11/Codes/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/NirmaliB11/Codes/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -149,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/NirmaliB11/Codes/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/NirmaliB11/Codes/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/NirmaliB11/Codes/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/NirmaliB11/Codes/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Hash Table
 |  |
