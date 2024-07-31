@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
 | [0948-sort-an-array](https://github.com/NirmaliB11/Codes/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/NirmaliB11/Codes/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/NirmaliB11/Codes/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/NirmaliB11/Codes/tree/master/1333-sort-the-jumbled-numbers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/NirmaliB11/Codes/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/NirmaliB11/Codes/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/NirmaliB11/Codes/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/NirmaliB11/Codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
