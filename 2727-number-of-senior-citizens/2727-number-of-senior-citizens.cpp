@@ -1,7 +1,6 @@
 class Solution {
 public:
     int countSeniors(vector<string>& details) {
-        int n=details.size();
         int c=0;
         for(auto &s:details)
         {
