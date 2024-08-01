@@ -3,10 +3,9 @@ public:
     int countSeniors(vector<string>& details) {
         int n=details.size();
         int c=0;
-        for(int i=0;i<n;i++)
+        for(auto &s:details)
         {
-            string s=details[i];
-            int val=(s[11]-'0')*10+(s[12]-'0');
+            int val=stoi(s.substr(11,2));
             if(val>60) c++;
         }
         return c;
