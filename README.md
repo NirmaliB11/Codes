@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
+| [0921-spiral-matrix-iii](https://github.com/NirmaliB11/Codes/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/NirmaliB11/Codes/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/NirmaliB11/Codes/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/NirmaliB11/Codes/tree/master/0921-spiral-matrix-iii) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NirmaliB11/Codes/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/NirmaliB11/Codes/tree/master/2645-pass-the-pillow) |
 ## Math
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/NirmaliB11/Codes/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NirmaliB11/Codes/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/NirmaliB11/Codes/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/NirmaliB11/Codes/tree/master/2472-build-a-matrix-with-conditions) |
