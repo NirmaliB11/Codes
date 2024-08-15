@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/NirmaliB11/Codes/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/NirmaliB11/Codes/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/NirmaliB11/Codes/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/NirmaliB11/Codes/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Greedy
 |  |
 | ------- |
@@ -339,4 +340,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NirmaliB11/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/NirmaliB11/Codes/tree/master/0643-maximum-average-subarray-i) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/NirmaliB11/Codes/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/NirmaliB11/Codes/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 <!---LeetCode Topics End-->
