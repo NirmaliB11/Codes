@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/NirmaliB11/Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/NirmaliB11/Codes/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/NirmaliB11/Codes/tree/master/0273-integer-to-english-words) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/NirmaliB11/Codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/NirmaliB11/Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NirmaliB11/Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/NirmaliB11/Codes/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/NirmaliB11/Codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
