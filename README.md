@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirmaliB11/Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/NirmaliB11/Codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/NirmaliB11/Codes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/NirmaliB11/Codes/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/NirmaliB11/Codes/tree/master/0999-regions-cut-by-slashes) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirmaliB11/Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/NirmaliB11/Codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NirmaliB11/Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/NirmaliB11/Codes/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirmaliB11/Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/NirmaliB11/Codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NirmaliB11/Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/NirmaliB11/Codes/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NirmaliB11/Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/NirmaliB11/Codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/NirmaliB11/Codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
 |  |
