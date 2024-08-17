@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/NirmaliB11/Codes/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/NirmaliB11/Codes/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/NirmaliB11/Codes/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NirmaliB11/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NirmaliB11/Codes/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/NirmaliB11/Codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NirmaliB11/Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NirmaliB11/Codes/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/NirmaliB11/Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NirmaliB11/Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/NirmaliB11/Codes/tree/master/0908-middle-of-the-linked-list) |
