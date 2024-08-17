@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/NirmaliB11/Codes/tree/master/0040-combination-sum-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/NirmaliB11/Codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/NirmaliB11/Codes/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/NirmaliB11/Codes/tree/master/0643-maximum-average-subarray-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/NirmaliB11/Codes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NirmaliB11/Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/NirmaliB11/Codes/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/NirmaliB11/Codes/tree/master/1333-sort-the-jumbled-numbers) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/NirmaliB11/Codes/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmaliB11/Codes/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/NirmaliB11/Codes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/NirmaliB11/Codes/tree/master/0999-regions-cut-by-slashes) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NirmaliB11/Codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NirmaliB11/Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/NirmaliB11/Codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Recursion
@@ -351,5 +356,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/NirmaliB11/Codes/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 <!---LeetCode Topics End-->
