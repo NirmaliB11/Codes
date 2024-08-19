@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/NirmaliB11/Codes/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/NirmaliB11/Codes/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/NirmaliB11/Codes/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmaliB11/Codes/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2645-pass-the-pillow](https://github.com/NirmaliB11/Codes/tree/master/2645-pass-the-pillow) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/NirmaliB11/Codes/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/NirmaliB11/Codes/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/NirmaliB11/Codes/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/NirmaliB11/Codes/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/NirmaliB11/Codes/tree/master/1511-count-number-of-teams) |
