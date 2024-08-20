@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/NirmaliB11/Codes/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/NirmaliB11/Codes/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/NirmaliB11/Codes/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/NirmaliB11/Codes/tree/master/1333-sort-the-jumbled-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmaliB11/Codes/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/NirmaliB11/Codes/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/NirmaliB11/Codes/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmaliB11/Codes/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2645-pass-the-pillow](https://github.com/NirmaliB11/Codes/tree/master/2645-pass-the-pillow) |
 ## String
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/NirmaliB11/Codes/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/NirmaliB11/Codes/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/NirmaliB11/Codes/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/NirmaliB11/Codes/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/NirmaliB11/Codes/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/NirmaliB11/Codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NirmaliB11/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
+| [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/NirmaliB11/Codes/tree/master/2102-find-the-middle-index-in-array) |
 ## Stack
 |  |
@@ -412,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/0215-kth-largest-element-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
