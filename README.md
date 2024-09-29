@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/NirmaliB11/Codes/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/NirmaliB11/Codes/tree/master/0206-reverse-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/NirmaliB11/Codes/tree/master/0432-all-oone-data-structure) |
 | [0908-middle-of-the-linked-list](https://github.com/NirmaliB11/Codes/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NirmaliB11/Codes/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NirmaliB11/Codes/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NirmaliB11/Codes/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/NirmaliB11/Codes/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
+| [0432-all-oone-data-structure](https://github.com/NirmaliB11/Codes/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/NirmaliB11/Codes/tree/master/0999-regions-cut-by-slashes) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/NirmaliB11/Codes/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/NirmaliB11/Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NirmaliB11/Codes/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NirmaliB11/Codes/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -466,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/NirmaliB11/Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NirmaliB11/Codes/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/NirmaliB11/Codes/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
