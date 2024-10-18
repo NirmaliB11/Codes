@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/NirmaliB11/Codes/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2102-find-the-middle-index-in-array](https://github.com/NirmaliB11/Codes/tree/master/2102-find-the-middle-index-in-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NirmaliB11/Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NirmaliB11/Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2472-build-a-matrix-with-conditions](https://github.com/NirmaliB11/Codes/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NirmaliB11/Codes/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/NirmaliB11/Codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NirmaliB11/Codes/tree/master/0040-combination-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NirmaliB11/Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/NirmaliB11/Codes/tree/master/0476-number-complement) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NirmaliB11/Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/NirmaliB11/Codes/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Quickselect
 |  |
@@ -534,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/NirmaliB11/Codes/tree/master/1002-maximum-width-ramp) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NirmaliB11/Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
