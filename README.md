@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/NirmaliB11/Codes/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/NirmaliB11/Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/NirmaliB11/Codes/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/NirmaliB11/Codes/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NirmaliB11/Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/NirmaliB11/Codes/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NirmaliB11/Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -599,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/NirmaliB11/Codes/tree/master/0877-shortest-path-visiting-all-nodes) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/NirmaliB11/Codes/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
