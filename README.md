@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/NirmaliB11/Codes/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/NirmaliB11/Codes/tree/master/0547-number-of-provinces) |
+| [0787-sliding-puzzle](https://github.com/NirmaliB11/Codes/tree/master/0787-sliding-puzzle) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/NirmaliB11/Codes/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/NirmaliB11/Codes/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/NirmaliB11/Codes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NirmaliB11/Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/NirmaliB11/Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NirmaliB11/Codes/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/NirmaliB11/Codes/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/NirmaliB11/Codes/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NirmaliB11/Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NirmaliB11/Codes/tree/master/0074-search-a-2d-matrix) |
+| [0787-sliding-puzzle](https://github.com/NirmaliB11/Codes/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/NirmaliB11/Codes/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/NirmaliB11/Codes/tree/master/0999-regions-cut-by-slashes) |
