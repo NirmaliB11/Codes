@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NirmaliB11/Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/NirmaliB11/Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NirmaliB11/Codes/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/NirmaliB11/Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NirmaliB11/Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NirmaliB11/Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/NirmaliB11/Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/NirmaliB11/Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/NirmaliB11/Codes/tree/master/0921-spiral-matrix-iii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NirmaliB11/Codes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/NirmaliB11/Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NirmaliB11/Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NirmaliB11/Codes/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NirmaliB11/Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/NirmaliB11/Codes/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/NirmaliB11/Codes/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2232-adding-spaces-to-a-string](https://github.com/NirmaliB11/Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NirmaliB11/Codes/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/NirmaliB11/Codes/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/NirmaliB11/Codes/tree/master/2580-circular-sentence) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/NirmaliB11/Codes/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/NirmaliB11/Codes/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NirmaliB11/Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/NirmaliB11/Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NirmaliB11/Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NirmaliB11/Codes/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NirmaliB11/Codes/tree/master/2699-count-the-number-of-fair-pairs) |
