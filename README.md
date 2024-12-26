@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NirmaliB11/Codes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
+| [0494-target-sum](https://github.com/NirmaliB11/Codes/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/NirmaliB11/Codes/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NirmaliB11/Codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/NirmaliB11/Codes/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/NirmaliB11/Codes/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/NirmaliB11/Codes/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/NirmaliB11/Codes/tree/master/0664-strange-printer) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/NirmaliB11/Codes/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/NirmaliB11/Codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NirmaliB11/Codes/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/NirmaliB11/Codes/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NirmaliB11/Codes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NirmaliB11/Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
