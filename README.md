@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/NirmaliB11/Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/NirmaliB11/Codes/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2554-minimum-total-distance-traveled](https://github.com/NirmaliB11/Codes/tree/master/2554-minimum-total-distance-traveled) |
+| [2562-count-ways-to-build-good-strings](https://github.com/NirmaliB11/Codes/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/NirmaliB11/Codes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Shortest Path
