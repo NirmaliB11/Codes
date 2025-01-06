@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NirmaliB11/Codes/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/NirmaliB11/Codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NirmaliB11/Codes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NirmaliB11/Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/NirmaliB11/Codes/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/NirmaliB11/Codes/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/NirmaliB11/Codes/tree/master/1940-maximum-xor-for-each-query) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/NirmaliB11/Codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/NirmaliB11/Codes/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/NirmaliB11/Codes/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NirmaliB11/Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/NirmaliB11/Codes/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NirmaliB11/Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NirmaliB11/Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NirmaliB11/Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/NirmaliB11/Codes/tree/master/1694-make-sum-divisible-by-p) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NirmaliB11/Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/NirmaliB11/Codes/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NirmaliB11/Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/NirmaliB11/Codes/tree/master/2102-find-the-middle-index-in-array) |
