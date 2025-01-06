@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NirmaliB11/Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NirmaliB11/Codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NirmaliB11/Codes/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NirmaliB11/Codes/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/NirmaliB11/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NirmaliB11/Codes/tree/master/0229-majority-element-ii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/NirmaliB11/Codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NirmaliB11/Codes/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NirmaliB11/Codes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NirmaliB11/Codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NirmaliB11/Codes/tree/master/0242-valid-anagram) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/NirmaliB11/Codes/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/NirmaliB11/Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NirmaliB11/Codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NirmaliB11/Codes/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/NirmaliB11/Codes/tree/master/0264-ugly-number-ii) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NirmaliB11/Codes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/NirmaliB11/Codes/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NirmaliB11/Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NirmaliB11/Codes/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/NirmaliB11/Codes/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NirmaliB11/Codes/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
