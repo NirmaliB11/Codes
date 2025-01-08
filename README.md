@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NirmaliB11/Codes/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/NirmaliB11/Codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NirmaliB11/Codes/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/NirmaliB11/Codes/tree/master/0074-search-a-2d-matrix) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NirmaliB11/Codes/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/NirmaliB11/Codes/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/NirmaliB11/Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NirmaliB11/Codes/tree/master/0229-majority-element-ii) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NirmaliB11/Codes/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/NirmaliB11/Codes/tree/master/0074-search-a-2d-matrix) |
 | [0787-sliding-puzzle](https://github.com/NirmaliB11/Codes/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
