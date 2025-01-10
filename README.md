@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NirmaliB11/Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0921-spiral-matrix-iii](https://github.com/NirmaliB11/Codes/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/NirmaliB11/Codes/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/NirmaliB11/Codes/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/NirmaliB11/Codes/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/NirmaliB11/Codes/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/NirmaliB11/Codes/tree/master/1025-minimum-cost-for-tickets) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/NirmaliB11/Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/NirmaliB11/Codes/tree/master/0664-strange-printer) |
 | [0812-rotate-string](https://github.com/NirmaliB11/Codes/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/NirmaliB11/Codes/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NirmaliB11/Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/NirmaliB11/Codes/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NirmaliB11/Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/NirmaliB11/Codes/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NirmaliB11/Codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
+| [0952-word-subsets](https://github.com/NirmaliB11/Codes/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/NirmaliB11/Codes/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/NirmaliB11/Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
