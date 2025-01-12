@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/NirmaliB11/Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/NirmaliB11/Codes/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/NirmaliB11/Codes/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
 | [1242-matrix-block-sum](https://github.com/NirmaliB11/Codes/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/NirmaliB11/Codes/tree/master/1256-rank-transform-of-an-array) |
