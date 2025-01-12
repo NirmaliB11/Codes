@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/NirmaliB11/Codes/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/NirmaliB11/Codes/tree/master/2089-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/NirmaliB11/Codes/tree/master/2102-find-the-middle-index-in-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/NirmaliB11/Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/NirmaliB11/Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NirmaliB11/Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/NirmaliB11/Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/NirmaliB11/Codes/tree/master/0921-spiral-matrix-iii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NirmaliB11/Codes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/NirmaliB11/Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/NirmaliB11/Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NirmaliB11/Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NirmaliB11/Codes/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/NirmaliB11/Codes/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NirmaliB11/Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NirmaliB11/Codes/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/NirmaliB11/Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/NirmaliB11/Codes/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/NirmaliB11/Codes/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
