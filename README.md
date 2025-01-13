@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NirmaliB11/Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/NirmaliB11/Codes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NirmaliB11/Codes/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/NirmaliB11/Codes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/NirmaliB11/Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/NirmaliB11/Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NirmaliB11/Codes/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/NirmaliB11/Codes/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/NirmaliB11/Codes/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/NirmaliB11/Codes/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NirmaliB11/Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/NirmaliB11/Codes/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NirmaliB11/Codes/tree/master/2292-counting-words-with-a-given-prefix) |
