@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/NirmaliB11/Codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/NirmaliB11/Codes/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NirmaliB11/Codes/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/NirmaliB11/Codes/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/NirmaliB11/Codes/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NirmaliB11/Codes/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/NirmaliB11/Codes/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmaliB11/Codes/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1635-number-of-good-pairs](https://github.com/NirmaliB11/Codes/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/NirmaliB11/Codes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/NirmaliB11/Codes/tree/master/2383-add-two-integers) |
 | [2571-find-the-pivot-integer](https://github.com/NirmaliB11/Codes/tree/master/2571-find-the-pivot-integer) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/NirmaliB11/Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NirmaliB11/Codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NirmaliB11/Codes/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/NirmaliB11/Codes/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/NirmaliB11/Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NirmaliB11/Codes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NirmaliB11/Codes/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NirmaliB11/Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/NirmaliB11/Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NirmaliB11/Codes/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1635-number-of-good-pairs](https://github.com/NirmaliB11/Codes/tree/master/1635-number-of-good-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NirmaliB11/Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/NirmaliB11/Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
