@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/NirmaliB11/Codes/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/NirmaliB11/Codes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/NirmaliB11/Codes/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/NirmaliB11/Codes/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/NirmaliB11/Codes/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NirmaliB11/Codes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/NirmaliB11/Codes/tree/master/2645-pass-the-pillow) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/NirmaliB11/Codes/tree/master/2491-smallest-even-multiple) |
 | [2716-prime-subtraction-operation](https://github.com/NirmaliB11/Codes/tree/master/2716-prime-subtraction-operation) |
 ## Queue
 |  |
