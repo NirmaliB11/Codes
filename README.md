@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/NirmaliB11/Codes/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/NirmaliB11/Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/NirmaliB11/Codes/tree/master/0664-strange-printer) |
+| [0782-jewels-and-stones](https://github.com/NirmaliB11/Codes/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/NirmaliB11/Codes/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/NirmaliB11/Codes/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NirmaliB11/Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/NirmaliB11/Codes/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NirmaliB11/Codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0782-jewels-and-stones](https://github.com/NirmaliB11/Codes/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [0952-word-subsets](https://github.com/NirmaliB11/Codes/tree/master/0952-word-subsets) |
 | [0999-regions-cut-by-slashes](https://github.com/NirmaliB11/Codes/tree/master/0999-regions-cut-by-slashes) |
