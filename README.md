@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmaliB11/Codes/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2383-add-two-integers](https://github.com/NirmaliB11/Codes/tree/master/2383-add-two-integers) |
 | [2571-find-the-pivot-integer](https://github.com/NirmaliB11/Codes/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NirmaliB11/Codes/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2645-pass-the-pillow](https://github.com/NirmaliB11/Codes/tree/master/2645-pass-the-pillow) |
