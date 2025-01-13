@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/NirmaliB11/Codes/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/NirmaliB11/Codes/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/NirmaliB11/Codes/tree/master/1839-decode-xored-array) |
+| [1848-sum-of-unique-elements](https://github.com/NirmaliB11/Codes/tree/master/1848-sum-of-unique-elements) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NirmaliB11/Codes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NirmaliB11/Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/NirmaliB11/Codes/tree/master/1917-maximum-average-pass-ratio) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/NirmaliB11/Codes/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NirmaliB11/Codes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NirmaliB11/Codes/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1848-sum-of-unique-elements](https://github.com/NirmaliB11/Codes/tree/master/1848-sum-of-unique-elements) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NirmaliB11/Codes/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NirmaliB11/Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NirmaliB11/Codes/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NirmaliB11/Codes/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/NirmaliB11/Codes/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1848-sum-of-unique-elements](https://github.com/NirmaliB11/Codes/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NirmaliB11/Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/NirmaliB11/Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
