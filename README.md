@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/NirmaliB11/Codes/tree/master/2089-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/NirmaliB11/Codes/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NirmaliB11/Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2145-grid-game](https://github.com/NirmaliB11/Codes/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/NirmaliB11/Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NirmaliB11/Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/NirmaliB11/Codes/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/NirmaliB11/Codes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/NirmaliB11/Codes/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/NirmaliB11/Codes/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NirmaliB11/Codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NirmaliB11/Codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/NirmaliB11/Codes/tree/master/2472-build-a-matrix-with-conditions) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/NirmaliB11/Codes/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NirmaliB11/Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/NirmaliB11/Codes/tree/master/2102-find-the-middle-index-in-array) |
+| [2145-grid-game](https://github.com/NirmaliB11/Codes/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/NirmaliB11/Codes/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/NirmaliB11/Codes/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NirmaliB11/Codes/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
