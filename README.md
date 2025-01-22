@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/NirmaliB11/Codes/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NirmaliB11/Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/NirmaliB11/Codes/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/NirmaliB11/Codes/tree/master/1876-map-of-highest-peak) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/NirmaliB11/Codes/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NirmaliB11/Codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/NirmaliB11/Codes/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/NirmaliB11/Codes/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/NirmaliB11/Codes/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/NirmaliB11/Codes/tree/master/1848-sum-of-unique-elements) |
+| [1876-map-of-highest-peak](https://github.com/NirmaliB11/Codes/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NirmaliB11/Codes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/NirmaliB11/Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/NirmaliB11/Codes/tree/master/1917-maximum-average-pass-ratio) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/NirmaliB11/Codes/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/NirmaliB11/Codes/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/NirmaliB11/Codes/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/NirmaliB11/Codes/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/NirmaliB11/Codes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/NirmaliB11/Codes/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/NirmaliB11/Codes/tree/master/2145-grid-game) |
