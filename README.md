@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NirmaliB11/Codes/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/NirmaliB11/Codes/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/NirmaliB11/Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/NirmaliB11/Codes/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NirmaliB11/Codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NirmaliB11/Codes/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/NirmaliB11/Codes/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/NirmaliB11/Codes/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/NirmaliB11/Codes/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NirmaliB11/Codes/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/NirmaliB11/Codes/tree/master/0908-middle-of-the-linked-list) |
