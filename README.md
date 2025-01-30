@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/NirmaliB11/Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/NirmaliB11/Codes/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/NirmaliB11/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/NirmaliB11/Codes/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NirmaliB11/Codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/NirmaliB11/Codes/tree/master/0643-maximum-average-subarray-i) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/NirmaliB11/Codes/tree/master/0299-bulls-and-cows) |
 | [0432-all-oone-data-structure](https://github.com/NirmaliB11/Codes/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/NirmaliB11/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/NirmaliB11/Codes/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NirmaliB11/Codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0782-jewels-and-stones](https://github.com/NirmaliB11/Codes/tree/master/0782-jewels-and-stones) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NirmaliB11/Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NirmaliB11/Codes/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/NirmaliB11/Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/NirmaliB11/Codes/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NirmaliB11/Codes/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
