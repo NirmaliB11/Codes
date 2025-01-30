@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/NirmaliB11/Codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NirmaliB11/Codes/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/NirmaliB11/Codes/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/NirmaliB11/Codes/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/NirmaliB11/Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NirmaliB11/Codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NirmaliB11/Codes/tree/master/0088-merge-sorted-array) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NirmaliB11/Codes/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NirmaliB11/Codes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/NirmaliB11/Codes/tree/master/0948-sort-an-array) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NirmaliB11/Codes/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/NirmaliB11/Codes/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/NirmaliB11/Codes/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/NirmaliB11/Codes/tree/master/0650-2-keys-keyboard) |
