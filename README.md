@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/NirmaliB11/Codes/tree/master/1333-sort-the-jumbled-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmaliB11/Codes/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/NirmaliB11/Codes/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/NirmaliB11/Codes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/NirmaliB11/Codes/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NirmaliB11/Codes/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NirmaliB11/Codes/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/NirmaliB11/Codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/NirmaliB11/Codes/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/NirmaliB11/Codes/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/NirmaliB11/Codes/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NirmaliB11/Codes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NirmaliB11/Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/NirmaliB11/Codes/tree/master/1502-construct-k-palindrome-strings) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/NirmaliB11/Codes/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/NirmaliB11/Codes/tree/master/0299-bulls-and-cows) |
 | [0948-sort-an-array](https://github.com/NirmaliB11/Codes/tree/master/0948-sort-an-array) |
+| [1364-tuple-with-same-product](https://github.com/NirmaliB11/Codes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/NirmaliB11/Codes/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NirmaliB11/Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/NirmaliB11/Codes/tree/master/1502-construct-k-palindrome-strings) |
