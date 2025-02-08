@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NirmaliB11/Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/NirmaliB11/Codes/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/NirmaliB11/Codes/tree/master/2434-design-a-number-container-system) |
 | [2502-sort-the-people](https://github.com/NirmaliB11/Codes/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NirmaliB11/Codes/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/2586-longest-square-streak-in-an-array) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/NirmaliB11/Codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NirmaliB11/Codes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NirmaliB11/Codes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/NirmaliB11/Codes/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NirmaliB11/Codes/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NirmaliB11/Codes/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NirmaliB11/Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/NirmaliB11/Codes/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NirmaliB11/Codes/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NirmaliB11/Codes/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/NirmaliB11/Codes/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/NirmaliB11/Codes/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NirmaliB11/Codes/tree/master/0731-my-calendar-ii) |
+| [2434-design-a-number-container-system](https://github.com/NirmaliB11/Codes/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/NirmaliB11/Codes/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
