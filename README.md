@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/NirmaliB11/Codes/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/NirmaliB11/Codes/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NirmaliB11/Codes/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NirmaliB11/Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Tree
 |  |
 | ------- |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NirmaliB11/Codes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NirmaliB11/Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NirmaliB11/Codes/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NirmaliB11/Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -992,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/NirmaliB11/Codes/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3483-alternating-groups-ii](https://github.com/NirmaliB11/Codes/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NirmaliB11/Codes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NirmaliB11/Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
