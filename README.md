@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/NirmaliB11/Codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/NirmaliB11/Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NirmaliB11/Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NirmaliB11/Codes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/NirmaliB11/Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NirmaliB11/Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NirmaliB11/Codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NirmaliB11/Codes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NirmaliB11/Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
 |  |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/NirmaliB11/Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NirmaliB11/Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NirmaliB11/Codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NirmaliB11/Codes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
 |  |
 | ------- |
@@ -853,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/NirmaliB11/Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NirmaliB11/Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NirmaliB11/Codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NirmaliB11/Codes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
