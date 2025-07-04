@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/NirmaliB11/Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NirmaliB11/Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NirmaliB11/Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/NirmaliB11/Codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NirmaliB11/Codes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -1051,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NirmaliB11/Codes/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/NirmaliB11/Codes/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NirmaliB11/Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/NirmaliB11/Codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -1138,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/NirmaliB11/Codes/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/NirmaliB11/Codes/tree/master/3394-minimum-array-end) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NirmaliB11/Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/NirmaliB11/Codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Quickselect
 |  |
 | ------- |
