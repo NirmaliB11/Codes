@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/NirmaliB11/Codes/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NirmaliB11/Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/NirmaliB11/Codes/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NirmaliB11/Codes/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NirmaliB11/Codes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NirmaliB11/Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/NirmaliB11/Codes/tree/master/3643-zero-array-transformation-ii) |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/NirmaliB11/Codes/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/NirmaliB11/Codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NirmaliB11/Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NirmaliB11/Codes/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/NirmaliB11/Codes/tree/master/3618-find-the-original-typed-string-ii) |
 ## Shortest Path
 |  |
