@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/NirmaliB11/Codes/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/NirmaliB11/Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/NirmaliB11/Codes/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NirmaliB11/Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NirmaliB11/Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NirmaliB11/Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NirmaliB11/Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/NirmaliB11/Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NirmaliB11/Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/NirmaliB11/Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NirmaliB11/Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NirmaliB11/Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NirmaliB11/Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Linked List
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/NirmaliB11/Codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/NirmaliB11/Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/NirmaliB11/Codes/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NirmaliB11/Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/NirmaliB11/Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NirmaliB11/Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NirmaliB11/Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -961,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmaliB11/Codes/tree/master/1349-check-if-it-is-a-straight-line) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NirmaliB11/Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1236,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/NirmaliB11/Codes/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NirmaliB11/Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/NirmaliB11/Codes/tree/master/2998-count-symmetric-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NirmaliB11/Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/NirmaliB11/Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/NirmaliB11/Codes/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NirmaliB11/Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
