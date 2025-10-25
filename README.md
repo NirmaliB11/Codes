@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NirmaliB11/Codes/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NirmaliB11/Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/NirmaliB11/Codes/tree/master/1635-number-of-good-pairs) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/NirmaliB11/Codes/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NirmaliB11/Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/NirmaliB11/Codes/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2050-count-good-numbers](https://github.com/NirmaliB11/Codes/tree/master/2050-count-good-numbers) |
