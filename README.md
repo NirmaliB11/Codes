@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/NirmaliB11/Codes/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NirmaliB11/Codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NirmaliB11/Codes/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1590-make-sum-divisible-by-p](https://github.com/NirmaliB11/Codes/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/NirmaliB11/Codes/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/NirmaliB11/Codes/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/NirmaliB11/Codes/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/NirmaliB11/Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NirmaliB11/Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NirmaliB11/Codes/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/NirmaliB11/Codes/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NirmaliB11/Codes/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/NirmaliB11/Codes/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/NirmaliB11/Codes/tree/master/1694-make-sum-divisible-by-p) |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/NirmaliB11/Codes/tree/master/1242-matrix-block-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NirmaliB11/Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NirmaliB11/Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1590-make-sum-divisible-by-p](https://github.com/NirmaliB11/Codes/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/NirmaliB11/Codes/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NirmaliB11/Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/NirmaliB11/Codes/tree/master/1694-make-sum-divisible-by-p) |
