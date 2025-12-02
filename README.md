@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NirmaliB11/Codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NirmaliB11/Codes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NirmaliB11/Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/NirmaliB11/Codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3643-zero-array-transformation-ii](https://github.com/NirmaliB11/Codes/tree/master/3643-zero-array-transformation-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/NirmaliB11/Codes/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/NirmaliB11/Codes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NirmaliB11/Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NirmaliB11/Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/NirmaliB11/Codes/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/NirmaliB11/Codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NirmaliB11/Codes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/NirmaliB11/Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/NirmaliB11/Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NirmaliB11/Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/NirmaliB11/Codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NirmaliB11/Codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/NirmaliB11/Codes/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Matrix
@@ -997,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmaliB11/Codes/tree/master/1349-check-if-it-is-a-straight-line) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NirmaliB11/Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/NirmaliB11/Codes/tree/master/3623-count-number-of-trapezoids-i) |
 ## Prefix Sum
 |  |
 | ------- |
