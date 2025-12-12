@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/NirmaliB11/Codes/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/NirmaliB11/Codes/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NirmaliB11/Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/NirmaliB11/Codes/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NirmaliB11/Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/NirmaliB11/Codes/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NirmaliB11/Codes/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NirmaliB11/Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NirmaliB11/Codes/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NirmaliB11/Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3433-count-mentions-per-user](https://github.com/NirmaliB11/Codes/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/NirmaliB11/Codes/tree/master/3531-count-covered-buildings) |
 ## Linked List
 |  |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NirmaliB11/Codes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NirmaliB11/Codes/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NirmaliB11/Codes/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3433-count-mentions-per-user](https://github.com/NirmaliB11/Codes/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NirmaliB11/Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/NirmaliB11/Codes/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NirmaliB11/Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/NirmaliB11/Codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NirmaliB11/Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NirmaliB11/Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/NirmaliB11/Codes/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NirmaliB11/Codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/NirmaliB11/Codes/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NirmaliB11/Codes/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
