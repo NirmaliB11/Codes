@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/NirmaliB11/Codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/NirmaliB11/Codes/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/NirmaliB11/Codes/tree/master/3643-zero-array-transformation-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/NirmaliB11/Codes/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/NirmaliB11/Codes/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/NirmaliB11/Codes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/NirmaliB11/Codes/tree/master/3791-fruits-into-baskets-iii) |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NirmaliB11/Codes/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3618-find-the-original-typed-string-ii](https://github.com/NirmaliB11/Codes/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/NirmaliB11/Codes/tree/master/3643-zero-array-transformation-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/NirmaliB11/Codes/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NirmaliB11/Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/NirmaliB11/Codes/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NirmaliB11/Codes/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NirmaliB11/Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/NirmaliB11/Codes/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/NirmaliB11/Codes/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
 |  |
