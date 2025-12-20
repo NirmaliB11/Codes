@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/NirmaliB11/Codes/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NirmaliB11/Codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/NirmaliB11/Codes/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/NirmaliB11/Codes/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/NirmaliB11/Codes/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/NirmaliB11/Codes/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/NirmaliB11/Codes/tree/master/0952-word-subsets) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/NirmaliB11/Codes/tree/master/0664-strange-printer) |
 | [0782-jewels-and-stones](https://github.com/NirmaliB11/Codes/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/NirmaliB11/Codes/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/NirmaliB11/Codes/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/NirmaliB11/Codes/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NirmaliB11/Codes/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/NirmaliB11/Codes/tree/master/1058-lexicographically-smallest-equivalent-string) |
