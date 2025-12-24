@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/NirmaliB11/Codes/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NirmaliB11/Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NirmaliB11/Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3074-apple-redistribution-into-boxes](https://github.com/NirmaliB11/Codes/tree/master/3074-apple-redistribution-into-boxes) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NirmaliB11/Codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NirmaliB11/Codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/NirmaliB11/Codes/tree/master/3194-find-words-containing-character) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/NirmaliB11/Codes/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/NirmaliB11/Codes/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/NirmaliB11/Codes/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3074-apple-redistribution-into-boxes](https://github.com/NirmaliB11/Codes/tree/master/3074-apple-redistribution-into-boxes) |
 | [3195-separate-black-and-white-balls](https://github.com/NirmaliB11/Codes/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/NirmaliB11/Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NirmaliB11/Codes/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/NirmaliB11/Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NirmaliB11/Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/NirmaliB11/Codes/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3074-apple-redistribution-into-boxes](https://github.com/NirmaliB11/Codes/tree/master/3074-apple-redistribution-into-boxes) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/NirmaliB11/Codes/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/NirmaliB11/Codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NirmaliB11/Codes/tree/master/3291-find-if-array-can-be-sorted) |
