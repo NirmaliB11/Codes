@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/NirmaliB11/Codes/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/NirmaliB11/Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/NirmaliB11/Codes/tree/master/0664-strange-printer) |
+| [0756-pyramid-transition-matrix](https://github.com/NirmaliB11/Codes/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/NirmaliB11/Codes/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/NirmaliB11/Codes/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/NirmaliB11/Codes/tree/master/0944-delete-columns-to-make-sorted) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/NirmaliB11/Codes/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/NirmaliB11/Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NirmaliB11/Codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0756-pyramid-transition-matrix](https://github.com/NirmaliB11/Codes/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/NirmaliB11/Codes/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NirmaliB11/Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/NirmaliB11/Codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NirmaliB11/Codes/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/NirmaliB11/Codes/tree/master/0494-target-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/NirmaliB11/Codes/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/NirmaliB11/Codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NirmaliB11/Codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NirmaliB11/Codes/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1272,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/NirmaliB11/Codes/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/NirmaliB11/Codes/tree/master/0476-number-complement) |
+| [0756-pyramid-transition-matrix](https://github.com/NirmaliB11/Codes/tree/master/0756-pyramid-transition-matrix) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/NirmaliB11/Codes/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1839-decode-xored-array](https://github.com/NirmaliB11/Codes/tree/master/1839-decode-xored-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/NirmaliB11/Codes/tree/master/1930-unique-length-3-palindromic-subsequences) |
