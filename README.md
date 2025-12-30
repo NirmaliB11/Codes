@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/NirmaliB11/Codes/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/NirmaliB11/Codes/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/NirmaliB11/Codes/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/NirmaliB11/Codes/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/NirmaliB11/Codes/tree/master/0890-lemonade-change) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/NirmaliB11/Codes/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/NirmaliB11/Codes/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/NirmaliB11/Codes/tree/master/0670-maximum-swap) |
+| [0840-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/NirmaliB11/Codes/tree/master/1240-stone-game-ii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/NirmaliB11/Codes/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NirmaliB11/Codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0756-pyramid-transition-matrix](https://github.com/NirmaliB11/Codes/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/NirmaliB11/Codes/tree/master/0782-jewels-and-stones) |
+| [0840-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NirmaliB11/Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NirmaliB11/Codes/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NirmaliB11/Codes/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/NirmaliB11/Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/NirmaliB11/Codes/tree/master/0787-sliding-puzzle) |
+| [0840-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/NirmaliB11/Codes/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/NirmaliB11/Codes/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/NirmaliB11/Codes/tree/master/0921-spiral-matrix-iii) |
